@@ -1,4 +1,4 @@
-\# 🎯 WinHunt: Vagrant Pen-Test Lab \& Master Control Agent
+\#  WinHunt: Vagrant Pen-Test Lab \& Master Control Agent
 
 
 
